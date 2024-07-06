@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "YOUR_AWS_REGION",
+        "profile_name": "default",
+        "s3_bucket": "YOUR_S3_BUCKET_NAME"
+    }
+}
